@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.itemsMenu{
+    padding: 20px 0px;
+    border-bottom: 1px solid #778;
+    font: bold 16px Verdana, sans-serif;
+}
+.itemsMenu li{
+    list-style: none; display: inline; margin-left:10px;
+}
+.itemsMenu li a{
+    padding: 5px 1em;
+    border: 1px solid #778;
+    background: #DDE; text-decoration: none;
+}
+
