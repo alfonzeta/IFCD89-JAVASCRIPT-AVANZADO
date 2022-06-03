@@ -16,4 +16,6 @@ body{
     border: 1px solid #778;
     background: #DDE; text-decoration: none;
 }
-
+h1{
+    color:blue;
+}
